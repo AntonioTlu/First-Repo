@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+header{
+    background-color: #287404;
+    align-content: center;
+    padding-left: 2%;
+    color: white;
+    width: flex;
+    height: 50px
+}
+
+main{
+    background-color: #65ac1e;
+    align-content: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    width: flex;
+    height: flex;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;left: 0;right: 0;
+    text-align: center;
+    align-content: center;
+    background-color: black;
+    color: white;
+    opacity: 0.75;
+    width: flex;
+    height: 30px
+}
