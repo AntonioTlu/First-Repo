@@ -1,0 +1,11 @@
+{
+    "posts": [
+      { "id": "1", "title": "a title", "views": 100 },
+      { "id": "2", "title": "another title", "views": 200 },
+      { "id": "3", "title": "third title", "views": 300 },
+      { "id": "4", "title": "fourth title", "views": 400 },
+      { "id": "5", "title": "fifth title", "views": 500 },
+      { "id": "6", "title": "sixth title", "views": 600 },
+      { "id": "7", "title": "das ist neu", "views": 700 }
+    ]
+  }
